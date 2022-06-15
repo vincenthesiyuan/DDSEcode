@@ -26,7 +26,6 @@ It is unofficial implementation of some experiments in this book. This repositor
 <br/>
 <br/>
 
-------
 
 ### Experiment code
 
