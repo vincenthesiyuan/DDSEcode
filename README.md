@@ -7,5 +7,5 @@ Data-Driven Science and Engineering: Machine Learning, Dynamic Systems, and Cont
 
 ### Experiment code
 
-EXP1: Image Compression
+CH1 - EXP1: Image Compression
 
